@@ -1,0 +1,10 @@
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\bin\Debug\Week13.exe.config
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\bin\Debug\Week13.exe
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\bin\Debug\Week13.pdb
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\obj\Debug\Week13.csprojAssemblyReference.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\obj\Debug\Week13.Form1.resources
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\obj\Debug\Week13.Properties.Resources.resources
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\obj\Debug\Week13.csproj.GenerateResource.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\obj\Debug\Week13.csproj.CoreCompileInputs.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\obj\Debug\Week13.exe
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\PraktikumWeek13\Week13\Week13\obj\Debug\Week13.pdb
