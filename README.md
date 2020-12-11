@@ -1,0 +1,2 @@
+# GitHub-PraktikumWeek13
+PraktikumWeek13_BryantAnthonyThauwrisan_0706022010008
